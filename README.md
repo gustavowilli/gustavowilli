@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"></p>
+<br clear="both">
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"></p>
+<br clear="both">
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left"></p>
+<br clear="both">
 
 ###
 
